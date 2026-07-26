@@ -1,0 +1,3 @@
+& "C:\Users\Vasprut\AppData\Local\Programs\Python\Python313\python.exe" -m ensurepip --upgrade
+
+& "C:\Users\Vasprut\AppData\Local\Programs\Python\Python313\python.exe" -m pip install keyboard
